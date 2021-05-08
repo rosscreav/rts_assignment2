@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<time.h>
+#include<stdlib.h>
 #include <sys/time.h>
 #include <sys/resource.h>
 // nanosleep to delay process between successive calls to print out time uses timespec structure
